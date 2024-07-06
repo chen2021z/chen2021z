@@ -13,7 +13,7 @@
 
 ### **Talking about Personal Stuffs:**
 
-- 👨‍🏛 I am currently a FE engineer in Kuaishou.
+- 👨‍🏛 I am currently a FE engineer in **Kuaishou**.
 - 💻 Major is **software engineering**.
 - 🌱 I'm currently learning **Web development**. 
 - This is my email: **2934570984@qq.com**.
